@@ -35,3 +35,5 @@ Introduce advanced options such as side-by-side stock comparisons and future pri
 Add a secure login page so multiple users can operate the app from a single device securely.  
 
 Increase the overall security of the application.
+
+Author : Swayam Patel
